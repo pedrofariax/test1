@@ -10,3 +10,4 @@
 
 [PUDIM!](https://pudim.com.br)
 > ![Foto de pudim](pudim.jpg)
+> ![gif de pudim](pudim.gif)
